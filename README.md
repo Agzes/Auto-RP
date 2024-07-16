@@ -2,5 +2,7 @@
 <h5 align="center">A program to help with the roleplay gameplay on roleplay servers in any game</a>  
 <br><br>
 <h3 align="center">🛠️<br>[0% / 100%]</h3>
-<h6 align="center">selecting libs</h6>
+<br><br>
+<br><br>
+<h6 align="center">🛠️ see you soon 🛠️</h6>
 
